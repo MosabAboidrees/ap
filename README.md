@@ -1,4 +1,4 @@
-# Teacher Sites
+# [Teacher Sites](https://cs50.readthedocs.io/site/)
 This is where all the resources for your CS50 classroom will live for your classroom. With this model, you have complete control over what content is displayed as well as how it is displayed.
 
 ## Getting Started

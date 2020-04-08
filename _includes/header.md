@@ -1,4 +1,4 @@
-# [CS50 AP]({{ "/" | relative_url }})
+# [مقدمة في البرمجة بالماتلاب]({{ "/" | relative_url }})
 
-Harvard University\\
-2019–2020
+University of Gezira\\
+2020
